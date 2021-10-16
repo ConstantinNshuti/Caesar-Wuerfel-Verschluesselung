@@ -8,7 +8,7 @@ public class ABCPrinter implements Runnable {
  public ABCPrinter(boolean isBig) {
 	 this.istGroﬂ = isBig;
  }
- 
+ //
  public void run() {
 	 if(istGroﬂ) {
 		 for(char buschtabe='A';buschtabe<='Z';buschtabe++) {
