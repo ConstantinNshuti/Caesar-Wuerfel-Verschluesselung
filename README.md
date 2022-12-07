@@ -1,1 +1,1 @@
-Verschlüsselung mit Cäsar Verfahren Verschlüsselung mit Würfel Verfahren
+Verschlüsselung mit Cäsar und Würfel Verfahren 
